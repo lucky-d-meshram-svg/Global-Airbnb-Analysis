@@ -1,6 +1,6 @@
 # 🌍 Global Airbnb Performance Dashboards
 
-<img width="739" height="556" alt="First Page" src="https://github.com/user-attachments/assets/d9a5cd73-05f3-4d6f-b15d-a4bbae17cfb2" />
+<img width="739" height="556" alt="First Page" src="https://github.com/user-attachments/assets/bd1d710e-9009-4365-995d-9c447d810f6c" />
 
 This project presents a series of interactive dashboards that analyze Airbnb’s global performance metrics across major cities. The visualizations combine insights on market share, pricing, reviews, seasonality, trust, and guest satisfaction, offering a comprehensive overview of Airbnb’s worldwide activity.
 
